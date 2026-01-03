@@ -1,0 +1,11 @@
+gradio
+ultralytics
+torch
+torchvision
+torchaudio
+Pillow
+numpy
+opencv-python
+matplotlib
+scipy
+pandas
